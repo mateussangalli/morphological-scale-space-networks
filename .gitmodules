@@ -1,0 +1,3 @@
+[submodule "deep-scale-spaces"]
+	path = deep-scale-spaces
+	url = https://github.com/mateussangalli/deep-scale-spaces.git
